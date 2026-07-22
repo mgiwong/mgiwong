@@ -5,7 +5,10 @@ I'm currently a third year Data Science major and Business minor at the Universi
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maisiegwong/)
+## Connect with me
+
+- LinkedIn: [linkedin.com/in/maisiegwong](https://www.linkedin.com/in/maisiegwong/)
+- Email: mgiwong@ucdavis.edu
 
 <!--
 **mgiwong/mgiwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
