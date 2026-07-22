@@ -5,8 +5,6 @@ I'm currently a third year Data Science major and Business minor at the Universi
 
 ### 🌐 Connect with me
 
-## Connect with me
-
 - LinkedIn: [linkedin.com/in/maisiegwong](https://www.linkedin.com/in/maisiegwong/)
 - Email: mgiwong@ucdavis.edu
 
